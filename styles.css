@@ -44,3 +44,7 @@ canvas.shake {
         transform: translate3d(4px, 0, 0);
     }
 }
+
+/*
+From Wes Bos's "Introduction to JavaScript"
+*/

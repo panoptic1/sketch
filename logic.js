@@ -81,3 +81,5 @@ function clearCanvas() {
 // Listen for keyboard events
 window.addEventListener(`keydown`, handleKey);
 shakeButton.addEventListener(`click`, clearCanvas);
+
+//From Wes Bos's "Introduction to JavaScript"
